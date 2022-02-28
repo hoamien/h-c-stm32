@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=5V Pin=J10-1
+Added Component: Designator=BT2(PIN3V)
+Added Component: Designator=BT3(PIN3V)
+Added Component: Designator=D22(D1A)
+Added Component: Designator=D33(D1A)
+Added Pin To Net: NetName=GND Pin=BT3-2
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-1
+Added Pin To Net: NetName=NetBT2_1 Pin=D33-1
+Added Net: Name=NetBT2_1
+Added Pin To Net: NetName=NetBT2_2 Pin=BT2-2
+Added Pin To Net: NetName=NetBT2_2 Pin=BT3-1
+Added Net: Name=NetBT2_2
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_1 Pin=D33-2
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD22_2 Pin=J10-1
+Added Net: Name=NetD22_2
+Added Member To Class: ClassName=nguyenli Member=Component BT2 PIN 3V
+Added Member To Class: ClassName=nguyenli Member=Component BT3 PIN 3V
+Added Member To Class: ClassName=nguyenli Member=Component D22 1N4007
+Added Member To Class: ClassName=nguyenli Member=Component D33 1N4007

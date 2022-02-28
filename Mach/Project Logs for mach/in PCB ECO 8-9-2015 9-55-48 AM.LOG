@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=C1
+Change Component Designator: OldDesignator=C6 NewDesignator=C2
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=D23 NewDesignator=D2
+Change Component Designator: OldDesignator=D34 NewDesignator=D4
+Change Component Designator: OldDesignator=D44 NewDesignator=D3
+Change Component Designator: OldDesignator=JDC NewDesignator=JDC1
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED1
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=RF NewDesignator=RF1
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Added Component: Designator=D5(D1A)
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD23_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED1_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=nguyenli Member=Component C1 100uF/35V
+Added Member To Class: ClassName=nguyenli Member=Component C2 1000uF/16V
+Added Member To Class: ClassName=nguyenli Member=Component D1 1N5408
+Added Member To Class: ClassName=nguyenli Member=Component D2 1N4007
+Added Member To Class: ClassName=nguyenli Member=Component D3 1N4007
+Added Member To Class: ClassName=nguyenli Member=Component D4 1N4007
+Added Member To Class: ClassName=nguyenli Member=Component D5 1N4007
+Added Member To Class: ClassName=nguyenli Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=nguyenli Member=Component L_N1 100uH
+Added Member To Class: ClassName=nguyenli Member=Component LCD1 LCD16x2A
+Added Member To Class: ClassName=nguyenli Member=Component LED1 LED
+Added Member To Class: ClassName=nguyenli Member=Component P1 Header 25X2AH
+Added Member To Class: ClassName=nguyenli Member=Component P2 Header 25X2AH
+Added Member To Class: ClassName=nguyenli Member=Component R1 220
+Added Member To Class: ClassName=nguyenli Member=Component R2 330
+Added Member To Class: ClassName=nguyenli Member=Component RF1 JP7 PIN
+Added Member To Class: ClassName=nguyenli Member=Component U1 LM2576T-5.0
+Added Member To Class: ClassName=nguyenli Member=Component U2 LM35

@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=D5 Old DesignItemId=D5A New DesignItemId=D1A
+Change Component DesignItemId : Designator=D6 Old DesignItemId=D5A New DesignItemId=D1A
+Change Component Footprint: Designator=D5 Old Footprint=D5A New Footprint=D1A
+Change Component Footprint: Designator=D6 Old Footprint=D5A New Footprint=D1A
+Change Component Comment : Designator=D5 Old Comment=1N5408 New Comment=1N4007
+Change Component Comment : Designator=D6 Old Comment=1N5408 New Comment=1N4007

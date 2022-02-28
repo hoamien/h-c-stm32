@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=JDC-1
+Added Component: Designator=SW?(SW6)
+Added Pin To Net: NetName=NetC5_1 Pin=SW?-3
+Added Pin To Net: NetName=NetJDC_1 Pin=JDC-1
+Added Pin To Net: NetName=NetJDC_1 Pin=SW?-1
+Added Net: Name=NetJDC_1
+Added Member To Class: ClassName=nguyenli Member=Component SW? SW6A

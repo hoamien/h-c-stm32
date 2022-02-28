@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=D4-2
+Removed Member From Class: ClassName=nguyenli Member=D4
+Removed Member From Class: ClassName=nguyenli Member=D5
+Added Component: Designator=U3(QTO-220H3)
+Added Pin To Net: NetName=NetD2_1 Pin=U3-3
+Added Member To Class: ClassName=nguyenli Member=Component D3 1N4007
+Added Member To Class: ClassName=nguyenli Member=Component U3 LM7805
